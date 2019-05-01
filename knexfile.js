@@ -5,7 +5,7 @@ module.exports = {
   development: {
     client: 'sqlite3',
     connection: {
-      filename: './data/rolex.db3',
+      filename: './data/lambda.db3',
     },
     useNullAsDefault: true, // needed for sqlite
   }
